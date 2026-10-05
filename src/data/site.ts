@@ -10,7 +10,7 @@ export const NAV = [
 export const CONTACT = {
   phoneDisplay: "+254 790 57 86 86",
   phoneTel: "+254790578686",
-  whatsapp: "254770501786",
+  whatsapp: "254790578686",
   email: "peter.robert5@icloud.com",
   location: "Nairobi, Kenya",
   hours: "Office Hours: Mon - Fri, 9am - 5pm EAT",
@@ -106,7 +106,7 @@ export const PROJECTS = [
     ],
     tech: ["Ruby on Rails", "React", "Redis", "Sidekiq"],
     img: "/imported/20115d96f08f-gen_4f486afc08_5d3b7b35d8138db0.png",
-    website: "https://github.com",
+    website: "https://github.com/peterrobert/SwiftDispatch-backend",
     featured: false,
   },
 ] as const;
